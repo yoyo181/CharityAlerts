@@ -1,3 +1,6 @@
+/*
+import java.util.*;
+
 public class Person {
 	
 	//Attributes
@@ -9,12 +12,9 @@ public class Person {
 	// Constructor 
 	public Person (String n) {
 		this.name = n; 
-	this.age =0;
-	//...
-	
-	
+		this.age =0;
 	}
-public void talk() {
+    public void talk() {
 	
      System.out.println("Hi , my name is " + this.name );
 	
@@ -27,4 +27,4 @@ public void talk() {
 	//System.out.println(tito.name );
 	
         }
-}
+}*/
